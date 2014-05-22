@@ -1,0 +1,48 @@
+#1:
+Section A:
+Kut te gege tete kut te [A1]
+Kut te gege nana kut te [A2]
+Section B:
+Kut te keke tete kut te
+Kut te gege nana kut te
+
+#2:
+[A1]x3 + [A2]
+
+#3:
+[A1] + kut te kut te gege tete (this line = Section C)
++ Section A
+
+#4:
+Section C x 3 + Section A
+
+#5:
+[A1] +
+[Gegetete] x 2
++ Section A
+
+#6:
+[A1] + [Gegetete] x 6 + Section A
+
+#7:
+[A1] + ([Kut te] x 4) + Section A
+
+#8:
+[Kut te gege tete] x 4 +
+Kut te kut te gege tete
+Kut te gege tete kut te
+gege tete gege tete +
+Section A
+
+#9:
+Kut te gege tete kut te
+gege nana gege tete [Section D]
++ Section A
+
+#10
+[A1] + [Section D] x 3 + #9
+
+#Thehai:
+(Kut te gege tete kut te
+kut te gege nana kut te dha x 3)
+x3

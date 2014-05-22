@@ -1,0 +1,59 @@
+#1:
+Section A101:
+Dhin na dhageena Dha terekete dhageena [A1]
+Dha terekete dhe tete [A2]
+Ge ne toon na kena [A3]
+
+Section A102:
+Terekete tukkotakko terekete
+ge na (rest) dha geena
+dha terekete dhageena
+ge ne toon na ke na
+
+Section B: Ta version
+
+#2:
+[A1] x 3 + [A2] + [A3] + Section A
+
+#3:
+Dhin na dhageena x 3
+Dha terekete dhageena
++ Section A102
+
+#4:
+Dhin na +
+[dhageena] x 3 +
+[Dhaterekete dhageena] x 2
++ Section A102
+
+#5:
+[Dhinna]x2 + [dhageena]x2 +
+[Dhaterekete dhageena]x2 + Section A102
+
+#6:
+[A1] + Dha nan dhageena dhaterekete dhageena  (this line is Section C)
++ Section A102
+
+#7:
+[Section C] x 3 + Section A102
+
+#8:
+Section C +
+[Dha nan dha geena] x3 +
+Dhaterekete  dha gee na + #6
+
+#9:
+[A1]
+[Dhaterekete] x 3 + dhageena
++ Section A102
+
+#10:
+[A1] +
+[Dhaterekete tukkoterekete dhageena dhageena] x 3 +
+[A1] + Dhaterkete tukkotekerete dhageena dhageena
++ Section A102
+
+#Thehai:
+(Dhin na dhageena dhaterekete dhageena
+[Dhageena dhageena dha tet dha-1] x 3)
+x 3

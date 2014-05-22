@@ -1,0 +1,40 @@
+#1:
+Section A:
+//f32 = fingering 3 2
+Dha tete Dha tete Dhadha(f32) [A1]
+Dhete Dhage(f32) toon na ke na [A2]
+
+#2: [A1] x 3 + [A2]
+
+#3: [A1] + [tetedhadha]x2 + Section A
+
+#4: [A1] + [tete]x3 + dhadha + Section A
+
+#5:
+[A1] + tete-1 dhatete dhadha (this line is Section C)
++ Section A
+
+#6:
+[Section C] x 3 + #5
+
+#7:
+[A1] +
+tete 1-dha tete dha dha
+[tete 1-dha]x3 + tete dha dha
++ #5
+
+#8:
+[A1] + dha-na-na-na tete dha dha (ths line is Section D)
++ Section A
+
+#9:
+[Section D] x 3 + Section A
+
+#10:
+Section D
+[Dha-na-na-na]x3 + tete dhadha + #8
+
+#11: [A1] + tete tete dhadha tete + Section A
+
+#12: [Dhatete]x4 + dhadha tete + Section A
+#13: ([A1] + [A2]x3)x3

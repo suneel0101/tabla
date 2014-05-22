@@ -1,0 +1,82 @@
+#1:
+Section A:
+// [A1] + [A2] == [A1A2]
+Dha tete gere nage [A1]
+gere nage tet [A2]
+
+Dhadha gere nage [A3]
+toon na kere nake [A4]
+Section B:
+Ta tete kere nake
+Kere nake tet
+Dhadha gere nage
+Dhin na gere nage
+
+#2:
+[A1A2] x 3 + [A3A4]
+
+#3:
+[A1A2] +
+1-tete gerenage gerenage tet
++ Section A
+
+#4:
+[A1A2] + [A2]x3 + Section A
+
+#5:
+[A1A2] + [gerenage]x3 + tet + Section A
+
+#6:
+([A1A2] + [gerenage]x3 + tet) x 3 + Section A
+
+#7:
+[A1A2]
+[gerenage]x3 + tet) x 4
++ #6
+
+#8:
+[A1A2] +
+[gerenage] x 3 + tet +
+[gerenage] x 7 + tet +
+#5
+
+#9:
+Dha tete gerenage tet +
+gerenage tet +
+gerenage tet +
+gerenage
++ Section A
+
+#10:
+Dha tete gerenage tet +
+gerenage gerenage tet +
+gerenage +
+Section A
+
+#11:
+[A1A2] +
+tete gerenage tete gerenage tet +
+Section A
+
+#12:
+[A1A2] + tet-tet-tet + gerenage tet + Section A
+
+#13:
+[A1A2] + (1-dha-na-na gerenage tet) (this line is Section C)
++ Section A
+
+#14:
+[Section C] x 3 + Section A
+
+#15:
+[A1A2] +
+[1-dha-na-na gerenage tet] x 3 + #13
+
+#16:
+Section C
+[1-dha-na-na] x 3 + gerenage tet + #13
+
+#Thehai:
+(Dha tete gerenage gerenage tet
+[1-dha-na-na gerenage tet dha-1]x3)
+x 3

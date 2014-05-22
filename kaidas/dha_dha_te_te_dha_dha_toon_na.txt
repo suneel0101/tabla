@@ -1,0 +1,67 @@
+#1
+Section A:
+Dhadha tete dhadha toon na [A1]
+Terekete dhatee dhadha toon na [A2]
+Section B:
+Tata tete tata toon na
+Terekete dhatee dhadha dhin na
+
+#2
+[Dhadha tete] x 3 + dhadha toon na
++ Section A
+
+#3
+Dhadha tete tete dhaha tetetete dhadha toon na
++ Section A
+
+#4
+Section A +
+[Terekete dhatee] x 3 + dhadha toon na
+
+#5
+Dhadha tete dhadha 1-dha [C1]
+tete tete dhadha toon na [C2]
++ Section A
+
+#6
+[C1] x 3 +
+[C2] + #5
+
+#7
+Dhadha tete  +
+[dha dha 1-dha] x 3 + #5
+
+#8
+[Dhadha] x 3 + 1-dha +
+[C2] + #5
+
+#9
+[A1] + tete 1-dha tete dhadha  (this line = Section D)
++ Section A
+
+#10
+[Section D] x 3 + Section A
+
+#11
+Dhadha tete dhadha toon na +
+[tete 1-dha tete dha dha] x 3
++ #9
+
+#12
+Section D +
+[tete 1-dha] x 3 + tete dhadha + #9
+
+#13
+Section A +
+Dhatee dhatee dhadhadha tee
+Dhatee dhatee dhadha toon na
+
+#13
+Section A +
+Dhadhatee Dhadhatee dhatee
+Dhatee dhatee dhadha toon na
+
+#Thehai
+(Dhadha tete dhadha toon na
+[Terekete dhatee dhadha toon na dha-1] x 3)
+x 3
