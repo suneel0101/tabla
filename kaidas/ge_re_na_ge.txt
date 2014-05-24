@@ -21,7 +21,7 @@ Dhin na gere nage
 + Section A
 
 #4:
-[A1A2] + [A2]x3 + Section A
+[A1A2] + [A2]x2 + Section A
 
 #5:
 [A1A2] + [gerenage]x3 + tet + Section A
@@ -50,7 +50,7 @@ gerenage
 #10:
 Dha tete gerenage tet +
 gerenage gerenage tet +
-gerenage +
+gerenage tet +
 Section A
 
 #11:
